@@ -1,0 +1,27 @@
+Name|SKU#|Retail Price|Online Price|Today's Price|Description|Specifications
+Honda OEM Acura Type-R Oil Pump|15100-P72-A01|$173.93|$173.93|$173.93|This is a genuine Honda Type-R Oil Pump. It will bolt on to any B-Series engine. (Use this only if you are using a OBD2 Lower Timing Cover)|Car Make: Acura / Honda	Engine Specifications: B-Series	
+Honda Honda OEM Acura Integra GSR B18C Timing Belt|14400-P72-014|$100.00|$81.95|$81.95|This is a Genuine OEM Honda Timing Belt|Car Make: Acura	Car Model: Integra GSR	Engine Specifications: B18C1	
+Honda OEM P73 STD Bore Acura Integra GSR Piston Rings|13011-PR3-003|$42.73|$42.73|$42.73|No Description|Car Make: Acura	Car Model: Integra GSR	Engine Specifications: B18C1	Bore: STD	
+Honda OEM Honda B16A Civic Si Timing Belt|14400-P2T-004|$83.87|$83.87|$83.87|This is a Genuine OEM Honda Timing Belt|Car Make: Honda	Engine Specifications: B16	
+OEM Honda Complete Top End Gasket Kit For F20C Engine|06110-PCX-020|$284.48|$284.48|$284.48|No Description|Car Make: Honda	Car Model: S2000	Engine Specifications: F20C	
+Honda OEM AP1 F20C S2000 Block Gasket Kit|06111-PCX-020|$32.13|$32.13|$32.13|This is a Genuine Honda OEM Lower Gasket Kit for the F20C.|Car Make: Honda	Car Model: S2000	Engine Specifications: F20C	
+OEM Honda S2000 F20C / F22C Oil Pump|15100-PCX-023|$388.80|$324.00|$324.00|An oil pump is a wear item, that eventually needs to be replaced. Pushing an engine past what it was designed for from the factory will shorten the lifespan of a oil pump, and put more strain on it. If you are rebuilding an engine, it would be irresponsible to not replace the oil pump. Its an inexpensive part that can save you an engine failure down the road.|Car Make: Honda	Car Model: S2000	Engine Specifications: F20C F22C	
+Honda OEM Waterpump Civic CRX Del Sol Integra GSR B16A B17A DOHC VTEC|19200-P30-003|$108.65|$108.65|$108.65|No Description|No Specifications
+Honda OEM Genuine Water Pump Honda D16Z6 92-95|19200-P08-004|$104.75|$104.75|$104.75|This is a Genuine Honda Water Pump For the D16Z6.|Car Make: Honda	Engine Specifications: D16Z6	
+Honda OEM Civic EK9 Type R N1 Crank Pulley|13811-PCT-000|$109.99|$109.99|$109.99|JDM OEM Civic Type-R single ribbed crank race pulley with deleted A/C and power steering ribs. |Engine Specifications: All B-Series VTEC	
+Honda OEM B-Series VTEC Water Pump|19200-p72-013|$122.12|$122.12|$122.12|This is a Genuine Honda OEM Water Pump B-Series VTEC Engine. Required for the LS VTEC conversion for proper timing belt length (must use GSR Timing Belt), this has the 22 tooth pulley used for the GSR and Type R.|Car Make: Acura Honda	Engine Specifications: B-Series VTEC	
+Honda S2000 F22 OEM Rod (single)|13050-pzx-aoo|$177.90|$177.90|$177.90|No Description|No Specifications
+Honda OEM Acura Integra Front Upper Control Arm|51450-ST7-020|$119.00|$119.00|$119.00|No Description|Years: 94-01	Car Make: Acura	Car Model: Integra	
+Honda OEM B18C Thermostat Case|19320-P72-010|$56.05|$56.05|$56.05|No Description|Engine Specifications: B18C	
+RUBBER, R. FR. STOPPER INSULATOR (MT)|50841-ST7-Z00|$58.43|$58.43|$58.43|No Description|No Specifications
+Honda OEM B-Series Lower Timing Cover OBD2|11810-P72-A00|$58.53|$58.53|$58.53|This is the OEM OBD2 timing cover needed for OBD1 vehicles that are using OBD2 Type-R Oil Pumps|Engine Specifications: OBD2 B-Series	
+Honda OEM Timing Belt Tensioner Integra GSR B18C|14510-P30-003|$85.20|$85.20|$85.20|This is a Genuine OEM Honda Timing Belt Tensioner|Car Make: Acura	Car Model: Integra GSR	Engine Specifications: B18C	
+Honda OEM K20A2 Timing Chain|14401-PNA-004|$116.40|$116.40|$116.40|This is a Genuine Honda OEM Timing Chain for the K20A2 Engine.|Engine Specifications: K20A2	
+Honda OEM K20A2 Timing Chain Tensioner|14510-PRB-A01|$85.90|$85.90|$85.90|This is a Genuine Honda OEM K20A2 Timing Chain Tensioner.|Engine Specifications: K20A2	
+Honda OEM Timing Chain Guide K20A2|14540-RAA-A02|$17.77|$17.77|$17.77|This is a Genuine Honda OEM Timing Chain Guide for the K20A2.|Engine Specifications: K20A2	
+Honda / Acura OEM K20A2 Upper Gasket Kit|06110-PRB-A00|$315.75|$315.75|$315.75|This is an Genuine OEM Honda Upper Gasket Kit for the K20A2.|Car Make: Acura	Engine Specifications: K20A2	
+Acura K20A2 Oil Pump RSX Type S 02-06|15100-PRB-A01|$212.77|$212.77|$212.77|This is a Genuine OEM Honda K20A2 Oil Pump Replacement RSX Type S 02-06|Years: 02-06	Car Make: Acura	Car Model: RSX Type S	Engine Specifications: K20A2	
+Honda OEM Clutch Master Cylinder EM2 01-05 Civic 02-06 Acura RSX|46920-S5A-G05|$151.47|$151.47|$151.47|This is a Genuine Honda OEM Clutch Master Cylinder for 02-06 Acura RSX / 01-05 Honda Civic.|Years: 01-05 (Civic) / 02-06 RSX	Car Make: Acura / Honda	Car Model: RSX / Civic	
+Honda OEM Prelude H22 92-96 Headgasket|12251-P13-004|$109.25|$109.25|$109.25|This is a Genuine OEM Honda Headgasket for the 92-96 H22 Engine.|Years: 92-96	Car Make: Honda	Car Model: Prelude	
+Honda OEM K20/K24 Oil Chain Tensioner|13450-RAA-A02|$120.40|$120.40|$120.40|This is a Genuine Honda OEM Oil Chain Tensioner for the K20 / K24 Engine.|Engine Specifications: K20 / K24	
+Honda OEM 90-95 Integra LS B18A B18B Oil Pump|15100-PR4-A03|$200.00|$200.00|$200.00|This is an OEM Honda Oil Pump for 90-95 Integra LS (B18A B18B).|Years: 90-95	Car Make: Honda	Car Model: Integra LS	Engine Specifications: B18A B18B	
